@@ -1,0 +1,21 @@
+{
+  "title": "Tomato management trials in Brazil: 2,068 results from 20 Embrapa publications",
+  "upload_type": "dataset",
+  "description": "2,068 trial results from 35 trials on fresh-market and processing tomato (Solanum lycopersicum) in Brazil, transcribed from the tables of 20 open-access Embrapa publications (1986-2021): pests (tomato leafminer Tuta absoluta, whitefly Bemisia tabaci and begomovirus, fruit borers, tomato russet mite, thrips), diseases (late blight and powdery mildew, bacterial spot, bacterial wilt, root-knot nematodes, Fusarium wilt), cultivars and hybrids, grafting, fertilization and irrigation, with trial context (place, season, planting date, market segment, growing system, cultivar, application timing, design), measured variable and value, assessment time, and the page and table of origin. Each document was transcribed twice, independently, by AI agents, and every disagreement was settled against the PDF; a human reviewed the result before publication. Part of the Paper Rerun project (Open Tables).",
+  "creators": [
+    {
+      "name": "Tessaro, Filipe"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Solanum lycopersicum",
+    "tomato",
+    "Tuta absoluta",
+    "Bemisia tabaci",
+    "Brazil",
+    "Embrapa",
+    "open data",
+    "AI agents"
+  ]
+}
