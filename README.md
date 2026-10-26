@@ -1,5 +1,7 @@
 # Tomato management trials in Brazil
 
+Versão em português: [README.pt-BR.md](README.pt-BR.md)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23649648.svg)](https://doi.org/10.5281/zenodo.23649648)
 
 2,068 trial results from 35 trials on fresh-market and processing tomato (*Solanum lycopersicum*) in Brazil, taken from the tables of 20 open-access Embrapa publications: pests (tomato leafminer *Tuta absoluta*, whitefly *Bemisia tabaci* and begomovirus, fruit borers, tomato russet mite, thrips), diseases (late blight and powdery mildew, bacterial spot, bacterial wilt, root-knot nematodes, Fusarium wilt), cultivars and hybrids, grafting, fertilization and irrigation. Each row is one number exactly as printed, with the page and table it came from, and points to the trial it belongs to.
